@@ -118,7 +118,11 @@ npx serve .
    git commit -m "Fix diacritics in hymn 42, verse 3"
    ```
 
-6. Push and open a pull request
+6. Push changes to remote repository
+git push --set-upstream origin fix/hymn-42-diacritics
+
+7. Open a pull request directly on Github (not on the terminal)
+https://github.com/<username>/sdahymnalyorubaweb/pull/new/fix/hymn-42-diacritics
 
 ### PR Guidelines
 
