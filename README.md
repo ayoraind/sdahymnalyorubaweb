@@ -156,7 +156,7 @@ The native apps will consume this URL as a lightweight API:
 |----------|----------|--------|
 | Web      | HTML/CSS/JS | Live |
 | iOS      | Swift    | Planned |
-| Android  | Kotlin   | Planned |
+| Android  | Kotlin   | Live |
 
 ## Using hymns.json in Your Project
 
